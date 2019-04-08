@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Selectors and Pseudo Selectors</title>
+    <style>
+        input {
+            color: white;
+            border: 2px deepskyblue solid;
+        }
+        input[type="submit"] {
+            background-color: rebeccapurple;
+        }
+        input[type="password"] {
+            background-color: yellow;
+        }
+        .box {
+            background-color: green;
+            border: 1px white solid;
+            height: 100px;
+        }
+        .box:nth-child(3n + 2) {
+            background-color: pink;
+        }
+    </style>
+</head>
+
+
+<body>
+
+<div class="container">
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box">
+        <input type="password">
+        <input type="submit" class="submit">
+    </div>
+</div>
+
+</body>
+</html>
