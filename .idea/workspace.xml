@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbd5b2cd-025e-40e1-8d34-b6e11cae4b1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/friends.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/find.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/friends.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/more.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/chat.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chats.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/chats.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/05-flex/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/05-flex/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/06-selectors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/06-selectors/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/08-css-state/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/08-css-state/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/09-transitions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/09-transitions/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/old/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/find.html" beforeDir="false" afterPath="$PROJECT_DIR$/find.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/more.html" beforeDir="false" afterPath="$PROJECT_DIR$/more.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/profile.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            <state relative-caret-position="637">
+              <caret line="47" column="15" lean-forward="true" selection-start-line="47" selection-start-column="15" selection-end-line="47" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -135,7 +118,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554683019943</updated>
-      <workItem from="1554683022350" duration="12467000" />
+      <workItem from="1554683022350" duration="13013000" />
     </task>
     <task id="LOCAL-00001" summary="- 이론">
       <created>1554701017478</created>
@@ -155,7 +138,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12467000" />
+    <option name="totallyTimeSpent" value="13013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="961" extended-state="6" />
@@ -278,8 +261,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        <state relative-caret-position="637">
+          <caret line="47" column="15" lean-forward="true" selection-start-line="47" selection-start-column="15" selection-end-line="47" selection-end-column="15" />
         </state>
       </provider>
     </entry>
